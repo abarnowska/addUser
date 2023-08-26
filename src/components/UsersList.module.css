@@ -1,0 +1,19 @@
+.ulList {
+	background-color: #fff;
+	padding: 0;
+	margin: 0 .5em 0 .5em;
+	list-style:none;
+	border-radius: 5px;
+	overflow: hidden;
+}
+
+.ulList li {
+	margin: 1em;
+	padding: .5em;
+	display: block;
+	font-family: "Roboto", sans-serif;
+	font-size: 1.8rem;
+	background-color: #fff;
+	border: 1px solid #8a8a8a;
+	border-radius: 5px;
+}
